@@ -1,0 +1,13 @@
+# Ignore conda environment and system folders
+bin/
+lib/
+include/
+etc/
+sbin/
+share/
+ssl/
+conda-meta/
+__pycache__/
+*.pyc
+.DS_Store
+
